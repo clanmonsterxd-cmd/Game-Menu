@@ -1,7 +1,7 @@
 # Game-Menu
 Ein Menü für meine Spiele und andere Funktionen
 
-=============Bitte Lesen=============
+# =============Bitte Lesen=============
  
 → Es könnte, aufgrund der Funktionsweise des Game Menüs - in 
   ihm gespeicherte Programme auszuführen-, dazu kommen, 
