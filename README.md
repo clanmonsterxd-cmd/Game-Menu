@@ -15,4 +15,7 @@ Ein Menü für meine Spiele und andere Funktionen
 
 → Alle in der 'Game Menu.exe' vorhanden Spiele wurden von mir selbst erstellt.
 
+Hinweis: Die App benötigt OpenGL 3.0 oder höher. In GitHub CI-VMs ohne GPU kann sie nicht starten. Installation funktioniert dennoch auf normalem Windows-System.
+
+
  	Viel Spaß!
