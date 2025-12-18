@@ -1,5 +1,5 @@
 # Game-Menu
-Ein Menü für meine Spiele und andere Funktionen
+Ein Menü für meine Spiele und andere Funktionen es funktioniert bis jetzt nur auf Windows.
 
 # =============Bitte Lesen=============
  
